@@ -1,0 +1,14 @@
+.foundation{
+   border-radius:200px;
+   width: 60px;
+   height: 60px;
+}
+
+.peace{
+    font-size: 20px;
+}
+
+.pack{
+    font-size: 30px;
+    font-weight: bold;
+}
