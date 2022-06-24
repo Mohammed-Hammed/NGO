@@ -12,3 +12,21 @@
     font-size: 30px;
     font-weight: bold;
 }
+
+.small {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.images {
+    width: 160px;
+    height: 250px;
+    float: right;
+    position: relative;
+    bottom: 30px;
+}
+
+.iy {
+    font-weight: bold;
+}
