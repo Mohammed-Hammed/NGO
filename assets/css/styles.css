@@ -6,9 +6,8 @@
 
 
 @media only screen and (max-width: 768px) {
-  .foundation{
-    float: left;
-  }
+  
+  
 }
 
 
@@ -138,11 +137,6 @@ body {
     box-sizing: border-box;
   }
   
-  body {
-    margin: 0;
-    font-family: Arial;
-    background: #EBE7E7;
-  }
   
   .header {
     text-align: center;
