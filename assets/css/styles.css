@@ -8,6 +8,10 @@
     font-size: 20px;
 }
 
+.main-nav{
+  position: fixed;
+}
+
 .pack{
     font-size: 30px;
     font-weight: bold;
